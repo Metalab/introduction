@@ -1,4 +1,4 @@
-introducion
+introduction
 ===========
 
-introducion to the metalab Lightning Talk 
+introduction to the metalab Lightning Talk 
